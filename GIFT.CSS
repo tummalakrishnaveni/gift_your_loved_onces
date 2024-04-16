@@ -1,0 +1,29 @@
+.card-image{
+    position: relative;
+    height: 20%;
+    width: 30%;
+}
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto auto ;
+    padding: 10px;
+    font-size: 40px;
+    
+
+};
+.p{
+    font-size: x-large; ;
+}
+i
+{
+    position: absolute;
+    right: 3px;
+    font-size: 40px;
+}
+.h1{
+    font-size: 40px;
+}
+.body {
+    background-color: rgba(145, 188, 196, 0.932);
+}
+
